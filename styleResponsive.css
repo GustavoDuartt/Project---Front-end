@@ -59,7 +59,7 @@
     }
 
     .services {
-        margin-top: 200%;
+        margin-top: 210%;
         left: 22%;
     }
 
@@ -79,7 +79,7 @@
     }
 
     .img1 {
-        left: 5%;
+        left: 3%;
         width: 355px;
         height: 290px;
     }
@@ -116,7 +116,7 @@
     }
 
     .img1 {
-        margin-top: -10%;
+        margin-top: -5%;
         width: 355px;
     }
 
@@ -128,4 +128,7 @@
         height: 350px;
     }
     
+    .nav {
+        padding-left: 24px;
+    }
 }
