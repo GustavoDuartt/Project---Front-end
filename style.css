@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Alumni+Sans:wght@100&family=Bebas+Neue&family=Sedgwick+Ave+Display&display=swap');
+
 html {
     scroll-behavior: smooth;
 }
@@ -265,7 +267,7 @@ body {
     position: relative;
     width: 350px;
     height: 300px;
-    background: rgb(255, 255, 255);
+    background: rgb(221, 221, 221);
     border-radius: 20px;
     box-shadow: 0 35px 30px rgba(0, 0, 0, 0.548);
     transition: 0.5s;
@@ -302,7 +304,7 @@ body {
 }
 
 .conteudo {
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:sans-serif;
     color: black;
     position: absolute;
     top: 240px;
@@ -320,9 +322,9 @@ body {
 
 .conteudo h2 {
     margin-bottom: 0;
-    font-family: 'Arial Narrow Bold', sans-serif;
-    font-size: 1.5rem;
-    font-weight: 700;
+    font-family: 'Alumni Sans', sans-serif;
+    font-weight: bolder;
+    font-size: 1.7rem;
     color: rgba(0, 0, 0, 0.897);
 }
 
